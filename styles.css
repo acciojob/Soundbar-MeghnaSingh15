@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.sound{
+	background-color:rgb(216, 200, 240);
+	height:190px;
+}
+#buttons{
+	color:white;
+	background-color:purple;
+	display: flex-start;
+    align-items: center;
+    justify-content: space-evenly;
+	padding: 8px; 
+	
+}
