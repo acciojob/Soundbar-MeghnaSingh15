@@ -5,5 +5,3 @@ document.querySelectorAll('.btn').forEach(button => {
     audio.play();
   });
 });
-
-})
